@@ -1,0 +1,10 @@
+*{
+	margin: 0;/* body-8px */
+	padding: 0; /* h */
+	text-decoration: none; /* a下划线 */
+	font-style: normal;
+	list-style: none;
+}
+h1,h2,h3,h4{
+	font-weight:normal;
+}
