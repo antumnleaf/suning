@@ -1,10 +1,10 @@
 *{
-	margin: 0;/* body-8px */
-	padding: 0; /* h */
-	text-decoration: none; /* a下划线 */
-	font-style: normal;
-	list-style: none;
-}
-h1,h2,h3,h4{
-	font-weight:normal;
+	margin: 0;/*body -8px;清除body*/
+	text-decoration-line:none; 
+	font-style: normal;/*字体斜体i,em*/
+	padding:0;
+	margin:0;
+	list-style: none;/*清除列表默认样式*/
+	text-decoration: none;
+	
 }
